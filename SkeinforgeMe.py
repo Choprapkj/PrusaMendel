@@ -21,7 +21,8 @@ skeinforgeLocation = "/Applications/replicatorg-0023-mac/skein_engines/skeinforg
 # THEN you are ready to run this from the command line. It will skein EVERY .stl or .STL in the Prusa Mendel 
 # by walking all directory trees.
 # best to set this up at night. You wake up to a directory full of .gcode files. =]
-#added a comment - PC
+# added a comment - PC
+# added the space in above comment on Astha's request
 
 import os
 
